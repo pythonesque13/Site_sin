@@ -1,0 +1,53 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "My COW",
+      "year": "2024",
+      "description": "Cow service",
+      "link": "cay@texstock.net"
+    },
+    {
+      "id": "2",
+      "name": "Scansym.",
+      "year": "2015",
+      "description": "Print Service",
+      "link": "syn@scans.com"
+    },
+    {
+      "id": "8b66",
+      "name": "Scanec",
+      "year": "2020",
+      "description": "print service",
+      "link": "print@gmail.com"
+    },
+    {
+      "id": "62be",
+      "name": "Oodoo",
+      "year": "2024",
+      "description": "transaction service",
+      "link": "odo@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Scansym.",
+      "year": "2015",
+      "description": "Print Service",
+      "link": "syn@scans.com"
+    },
+    {
+      "id": "6194",
+      "name": "SmartHis",
+      "year": "2019",
+      "description": "Gestion hopital",
+      "link": "smarthis@gmail.com"
+    },
+    {
+      "id": "cdb4",
+      "name": "Toto",
+      "year": "2022",
+      "description": "titi",
+      "link": "tata"
+    }
+  ]
+}
